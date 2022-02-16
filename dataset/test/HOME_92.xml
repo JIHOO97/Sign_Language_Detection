@@ -1,0 +1,26 @@
+<annotation>
+	<folder>집</folder>
+	<filename>92.jpg</filename>
+	<path>D:\나현 프로젝트\dataset\집\92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HOME</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>39</ymin>
+			<xmax>168</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>있다-samples (1)</folder>
+	<filename>16.jpg</filename>
+	<path>D:\나현 프로젝트\dataset\있다\있다-samples (1)\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HAVE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>26</ymin>
+			<xmax>124</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

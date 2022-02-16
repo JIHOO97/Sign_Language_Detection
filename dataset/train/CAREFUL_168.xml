@@ -1,0 +1,26 @@
+<annotation>
+	<folder>조심하다</folder>
+	<filename>168.jpg</filename>
+	<path>D:\나현 프로젝트\dataset\조심하다\168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CAREFUL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>118</ymin>
+			<xmax>119</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

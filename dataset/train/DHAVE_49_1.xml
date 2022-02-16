@@ -1,0 +1,26 @@
+<annotation>
+	<folder>없다-samples(1)</folder>
+	<filename>49.jpg</filename>
+	<path>D:\나현 프로젝트\dataset\없다\없다-samples(1)\49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DHAVE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>112</ymin>
+			<xmax>159</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

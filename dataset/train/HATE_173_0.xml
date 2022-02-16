@@ -1,0 +1,26 @@
+<annotation>
+	<folder>싫다</folder>
+	<filename>173_0.jpg</filename>
+	<path>D:\나현 프로젝트\dataset\싫다\173_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HATE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>282</ymin>
+			<xmax>417</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

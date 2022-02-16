@@ -1,0 +1,26 @@
+<annotation>
+	<folder>집</folder>
+	<filename>121_0.jpg</filename>
+	<path>D:\나현 프로젝트\dataset\집\121_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HOME</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>208</ymin>
+			<xmax>473</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>
