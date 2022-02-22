@@ -1,7 +1,7 @@
 <annotation>
 	<folder>bg_dataset</folder>
-	<filename>ILY_11.jpg</filename>
-	<path>D:\나현 프로젝트\test_folder\bg_dataset\ILY_11.jpg</path>
+	<filename>ILY_11.png</filename>
+	<path>D:\나현 프로젝트\Sign_Language_Detection\Sign_Language_Detection\test_folder\bg_dataset\ILY_11.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>46</xmin>
-			<ymin>61</ymin>
-			<xmax>95</xmax>
-			<ymax>162</ymax>
+			<xmin>108</xmin>
+			<ymin>74</ymin>
+			<xmax>247</xmax>
+			<ymax>248</ymax>
 		</bndbox>
 	</object>
 </annotation>
