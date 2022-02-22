@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>ILY_0.jpg</filename>
-	<path>D:\나현 프로젝트\Sign_Language_Detection\Sign_Language_Detection\test_folder\bg_dataset\train\ILY_0.jpg</path>
+	<filename>dhave_23_2.jpg</filename>
+	<path>D:\나현 프로젝트\Sign_Language_Detection\Sign_Language_Detection\test_folder\bg_dataset\train\dhave_23_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>ILY</name>
+		<name>DHAVE</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>88</xmin>
-			<ymin>73</ymin>
-			<xmax>194</xmax>
-			<ymax>206</ymax>
+			<xmin>120</xmin>
+			<ymin>52</ymin>
+			<xmax>203</xmax>
+			<ymax>194</ymax>
 		</bndbox>
 	</object>
 </annotation>
