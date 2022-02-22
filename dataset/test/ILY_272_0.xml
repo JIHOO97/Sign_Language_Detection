@@ -1,0 +1,33 @@
+<annotation>
+  <folder>272</folder>
+  <filename>ILY_272_0.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ILY</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>351.07</xmin>
+      <ymin>23.88</ymin>
+      <xmax>605.07</xmax>
+      <ymax>347.52</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
