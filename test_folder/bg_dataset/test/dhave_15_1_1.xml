@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bg_dataset</folder>
+	<filename>dhave_15_1_1.jpg</filename>
+	<path>D:\나현 프로젝트\Sign_Language_Detection\Sign_Language_Detection\test_folder\bg_dataset\dhave_15_1_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DHAVE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>89</ymin>
+			<xmax>215</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

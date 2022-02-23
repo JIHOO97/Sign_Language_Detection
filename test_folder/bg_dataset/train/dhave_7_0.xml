@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
-	<filename>dhave_7_0.jpg</filename>
-	<path>D:\나현 프로젝트\Sign_Language_Detection\Sign_Language_Detection\test_folder\bg_dataset\train\dhave_7_0.jpg</path>
+	<folder>없다</folder>
+	<filename>7_0.jpg</filename>
+	<path>D:\나현 프로젝트\dataset\없다\7_0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>320</width>
-		<height>320</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>122</xmin>
-			<ymin>93</ymin>
-			<xmax>205</xmax>
-			<ymax>201</ymax>
+			<xmin>366</xmin>
+			<ymin>266</ymin>
+			<xmax>471</xmax>
+			<ymax>476</ymax>
 		</bndbox>
 	</object>
 </annotation>
