@@ -1,0 +1,26 @@
+<annotation>
+	<folder>&#51676;&#51613;&#45208;&#45796;</folder>
+	<filename>IRRITATED_298.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\dataset\&#51676;&#51613;&#45208;&#45796;\298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IRRIATED</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>16</ymin>
+			<xmax>179</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

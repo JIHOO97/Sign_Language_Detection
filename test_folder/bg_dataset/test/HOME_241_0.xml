@@ -1,0 +1,26 @@
+<annotation>
+	<folder>&#51665;</folder>
+	<filename>HOME_241_0.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\dataset\&#51665;\241_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HOME</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>233</ymin>
+			<xmax>452</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
