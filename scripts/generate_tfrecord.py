@@ -58,8 +58,7 @@ args = parser.parse_args()
 if args.image_dir is None:
     args.image_dir = args.xml_dir
 
-label_map = label_map_util.load_labelmap(args.labels_path)
-label_map_dict = label_map_util.get_label_map_dict(label_map)
+label_map_dict = label_map_util.get_label_map_dict(args.labels_path)
 
 
 def xml_to_csv(path):
@@ -85,10 +84,10 @@ def xml_to_csv(path):
                      int(root.find('size')[0].text),
                      int(root.find('size')[1].text),
                      member[0].text,
-                     int(member[4][0].text),
-                     int(member[4][1].text),
-                     int(member[4][2].text),
-                     int(member[4][3].text)
+                     int(float(member[4][0].text)),
+                     int(float(member[4][1].text)),
+                     int(float(member[4][2].text)),
+                     int(float(member[4][3].text))
                      )
             xml_list.append(value)
     column_name = ['filename', 'width', 'height',
