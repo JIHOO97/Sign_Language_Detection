@@ -1,0 +1,26 @@
+<annotation>
+	<folder>&#51080;&#45796;</folder>
+	<filename>HAVE_256_0.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\dataset\&#51080;&#45796;\256_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HAVE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>175</ymin>
+			<xmax>366</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
