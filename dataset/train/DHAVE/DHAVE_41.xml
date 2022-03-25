@@ -1,0 +1,26 @@
+<annotation>
+	<folder>&#50630;&#45796;-samples</folder>
+	<filename>DHAVE_41.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\dataset\&#50630;&#45796;\&#50630;&#45796;-samples\134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DHAVE</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>104</ymin>
+			<xmax>151</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

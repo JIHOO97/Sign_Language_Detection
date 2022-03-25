@@ -1,0 +1,33 @@
+<annotation>
+  <folder />
+  <filename>RIGHT_4.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>224</width>
+    <height>224</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Right</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>70.82</xmin>
+      <ymin>54.16</ymin>
+      <xmax>134.91</xmax>
+      <ymax>178.49</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

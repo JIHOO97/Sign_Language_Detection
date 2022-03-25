@@ -1,0 +1,26 @@
+<annotation>
+	<folder>&#49899;&#45796;-samples(1)</folder>
+	<filename>HATE_222.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\dataset\&#49899;&#45796;\&#49899;&#45796;-samples(1)\39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HATE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>110</ymin>
+			<xmax>128</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

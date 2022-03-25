@@ -1,0 +1,33 @@
+<annotation>
+  <folder>careful</folder>
+  <filename>CAREFUL_19.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>320</width>
+    <height>320</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>CAREFUL</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16.84</xmin>
+      <ymin>27.74</ymin>
+      <xmax>148.11</xmax>
+      <ymax>143.65</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

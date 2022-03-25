@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bg_dataset</folder>
+	<filename>ILY_103.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\test_folder\bg_dataset\ILY_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>103</ymin>
+			<xmax>167</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

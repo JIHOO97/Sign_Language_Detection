@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>FINE_62.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\Sign_Language_Detection\jihoo\dataset\FINE_14_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FINE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>114</ymin>
+			<xmax>180</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

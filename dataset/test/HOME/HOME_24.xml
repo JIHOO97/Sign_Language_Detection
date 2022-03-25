@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bg_dataset</folder>
+	<filename>HOME_24.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\Sign_Language_Detection\Sign_Language_Detection\test_folder\bg_dataset\home_12_8_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HOME</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>1</ymin>
+			<xmax>160</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

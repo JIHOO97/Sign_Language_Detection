@@ -1,0 +1,26 @@
+<annotation>
+	<folder>&#51312;&#49900;&#54616;&#45796;</folder>
+	<filename>CAREFUL_175.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\dataset\&#51312;&#49900;&#54616;&#45796;\289_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CAREFUL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>270</ymin>
+			<xmax>234</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

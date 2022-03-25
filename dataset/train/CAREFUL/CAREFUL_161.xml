@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bg_dataset</folder>
+	<filename>CAREFUL_161.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\Sign_Language_Detection\Sign_Language_Detection\test_folder\bg_dataset\CAREFUL_1_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CAREFUL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>18</ymin>
+			<xmax>80</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bg_dataset</folder>
+	<filename>ILY_31.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\Sign_Language_Detection\Sign_Language_Detection\test_folder\bg_dataset\ILY_19_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ILY</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>27</ymin>
+			<xmax>320</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
