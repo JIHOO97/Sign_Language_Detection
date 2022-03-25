@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>WAIT_128.jpg</filename>
+	<path>D:\&#45208;&#54788; &#54532;&#47196;&#51229;&#53944;\Sign_Language_Detection\jihoo\dataset\WAIT_12_8_jihoo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WAIT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>70</ymin>
+			<xmax>88</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>
