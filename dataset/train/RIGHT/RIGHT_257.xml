@@ -13,7 +13,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>Right</name>
+    <name>RIGHT</name>
     <truncated>0</truncated>
     <occluded>0</occluded>
     <difficult>0</difficult>
