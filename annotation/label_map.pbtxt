@@ -1,5 +1,5 @@
 item { 
-	name:'HATE'
+	name:'CAREFUL'
 	id:1
 }
 item { 
@@ -7,15 +7,15 @@ item {
 	id:2
 }
 item { 
-	name:'WHY'
+	name:'FINE'
 	id:3
 }
 item { 
-	name:'HAVE'
+	name:'HATE'
 	id:4
 }
 item { 
-	name:'CAREFUL'
+	name:'HAVE'
 	id:5
 }
 item { 
@@ -23,10 +23,22 @@ item {
 	id:6
 }
 item { 
-	name:'IRRITATED'
+	name:'ILY'
 	id:7
 }
 item { 
-	name:'PHONE'
+	name:'IRRITATED'
 	id:8
+}
+item { 
+	name:'RIGHT'
+	id:9
+}
+item { 
+	name:'WAIT'
+	id:10
+}
+item { 
+	name:'WHY'
+	id:11
 }
